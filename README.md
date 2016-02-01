@@ -22,7 +22,7 @@ Then follow these steps:
 * Right click the shortcut that is created and modify the "Target" field.  Go to the end of the field, hit space and type in: -plugin SEClientExtender.dll
 * Launch the game with the shortcut created.  You may copy the shortcut to your desktop to easily run.
 
-### Launching the plugin automatically from steam
+### Launching the Plugin automatically from steam
 
 After you install the plugin, you can have steam launch the game all the time, without needing to use the shortcut created.  Just do the following:
 

@@ -21,6 +21,7 @@ Then follow these steps:
 * Right click on the SpaceEngineers.exe file in that Bin64 directory and select "Create Shortcut"
 * Right click the shortcut that is created and modify the "Target" field.  Go to the end of the field, hit space and type in: -plugin SEClientExtender.dll
 * Launch the game with the shortcut created.  You may copy the shortcut to your desktop to easily run.
+* WARNING: If the game crashes on launch, this may be due to how windows handles Zone Identifiers on DLLs it doesn't know about.  Go back to the Bin64 directory, right click on the DLLs that you extract, and click on properties.  If you see a button "Unblock" click it, and that should solve the issue.
 
 ### Launching the Plugin automatically from steam
 
